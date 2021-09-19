@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	background-color: blue;
+	padding-top: 50px;
+	height: 387px;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 800px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	margin-left: 45px;
+}
+
+.Header_Contact {
+	color: Black;
+	border: 20px solid;
+	border-color: white;
+	background-color: white;
+	border-radius: 120px;
+}
+
+section {
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 100%;
+}
+
+image {
+	width: 100%;
+}
+
+.Sub {
+	margin-top: 60px;
+	margin-left: 15px;
+}
+
+.Info {
+	width: 950px;
+	margin: 0 auto;
+	margin: 20px 130px 80px;
+}
+
+p {
+	padding-bottom: 18px;
+}
+
+.More_Info {
+	background-color: blue;
+	border-radius: 28px;
+	border: 20px solid;
+	border-color: blue;
+	margin-left: 500px;
+}
+
+footer {
+	background-color: blue;
+	height: 700px;
+	margin-top: 180px;
+}
+
+.Footer_Contact {
+	color: white;
+	display: inline-block;
+	margin: 50px 20px 0 240px;
+	width: 60%;
+}
+
+.Footer_Text {
+	width: 50%;
+	padding-top: 30px;
+	padding-bottom: 58px;
+}
+
+.Footer_Img {
+	display: inline-block;
+	border: 10px solid;
+	border-radius: 20px;
+	border-color: white;
+	background-color: white;
+}
+
+.Contact_Info {
+	padding-top: 70px;
+}
