@@ -27,6 +27,7 @@ a {
 	text-decoration: none;
 	color: white;
 	margin-left: 45px;
+	font-size: 18px;
 }
 
 .Header_Contact {
@@ -58,7 +59,7 @@ image {
 	margin: 20px 130px 80px;
 }
 
-p {
+.Info p {
 	padding-bottom: 18px;
 }
 
@@ -76,15 +77,16 @@ footer {
 	margin-top: 180px;
 }
 
-.Footer_Contact {
+.Footer_Block {
 	color: white;
 	display: inline-block;
-	margin: 50px 20px 0 240px;
-	width: 60%;
+	margin: 50px 20px 0 150px;
+	width: 40%;
 }
 
 .Footer_Text {
-	width: 50%;
+	display: inline-block;
+	width: 500px;
 	padding-top: 30px;
 	padding-bottom: 58px;
 }
@@ -98,5 +100,20 @@ footer {
 }
 
 .Contact_Info {
+	display: inline-block;
 	padding-top: 70px;
+}
+
+.Made_With_Love {
+	display: inline-block;
+	margin-left: 400px;
+}
+
+.Made_With_Love li {
+	margin-left: 10px;
+}
+
+.Copyright {
+	padding-bottom: 0;
+	margin-top: 100px;
 }
